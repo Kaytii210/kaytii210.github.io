@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.kaytii.me/posts/pwn-study-notes.md/</loc>
+<lastmod>2025-11-30T11:06:45+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.kaytii.me/categories/</loc>
+<lastmod>2025-12-01T14:27:14+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.kaytii.me/tags/</loc>
+<lastmod>2025-12-01T14:27:14+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.kaytii.me/archives/</loc>
+<lastmod>2025-12-01T14:27:14+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.kaytii.me/about/</loc>
+<lastmod>2025-12-01T14:27:14+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.kaytii.me/</loc>
+</url>
+<url>
+<loc>https://blog.kaytii.me/tags/study-notes/</loc>
+</url>
+<url>
+<loc>https://blog.kaytii.me/tags/tools/</loc>
+</url>
+<url>
+<loc>https://blog.kaytii.me/categories/pwnable/</loc>
+</url>
+</urlset>
